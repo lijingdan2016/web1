@@ -1,0 +1,21 @@
+.menu{background-image: url(image8/header.png);
+     background-repeat: no-repeat;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     padding-left: 30px;
+     padding-right: 30px;
+     margin-bottom: 30px;
+     }
+#xi{background-image: url(image8/lvbiaoti.png);
+	width:130px;
+	padding-left: 45px;
+
+    }
+p{background-image: url(image8/baibiaoti.png);
+	width:130px;
+	padding-top: 8px;
+	padding-left: 45px;
+    height:30px;}
+body{background-image: url(image8/bj.png);
+     background-repeat: no-repeat;
+     }
